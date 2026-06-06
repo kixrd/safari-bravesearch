@@ -6,7 +6,7 @@ INSTALL_TARGET_PROCESSES = MobileSafari
 
 include $(THEOS)/makefiles/common.mk
 
-TWEAK_NAME = startpage
+TWEAK_NAME = BraveSearch
 
 startpage_FILES = Tweak.x
 startpage_CFLAGS = -fobjc-arc
