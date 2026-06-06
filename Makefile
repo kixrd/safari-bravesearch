@@ -1,5 +1,5 @@
 export PREFIX = /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/
-export SDKVERSION = 12.2
+export SDKVERSION = 15.6
 export ARCHS = arm64 arm64e
 
 INSTALL_TARGET_PROCESSES = MobileSafari
