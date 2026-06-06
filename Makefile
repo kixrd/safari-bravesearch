@@ -8,7 +8,7 @@ include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = BraveSearch
 
-startpage_FILES = Tweak.x
-startpage_CFLAGS = -fobjc-arc
+BraveSearch_FILES = Tweak.x
+BraveSearch_CFLAGS = -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/tweak.mk
